@@ -122,11 +122,11 @@ export const Services = () => {
             <ChartColumnBig className="w-10 h-10 text-white group-hover:text-[#FF6800] " />
           </icon>
           <text className='flex flex-col items-center text-center flex-1 justify-center'>
-            <p className="text-xl font-semibold text-[#111029] mb-3 group-hover:text-white">Business Growth</p>
+            <p className="text-xl font-semibold text-[#111029] mb-3 group-hover:text-white">Digital marketing</p>
             <p className="text-[#6B6B6B] leading-8 mb-6 group-hover:text-white">
-              We also provide services by <br/>
-              providing input for your <br/>
-              business growth
+              We also help you market your <br/>
+              products through an online <br/>
+              marketplace
             </p>
           </text>
 
