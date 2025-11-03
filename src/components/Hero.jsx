@@ -24,14 +24,6 @@ export const Hero = () => {
 
         <div className="md:w-1/2 mt-10 md:mt-0 flex justify-center relative">
             <img src={pic} alt=''className="" />
-            {/* 🔹 ВСТАВЬ СЮДА КАРТИНКУ */}
-            {/* Например: 
-                <img 
-                src={heroImage} 
-                alt="Описание изображения" 
-                className="w-80 h-80 object-cover rounded-full shadow-lg" 
-                /> 
-            */}
         </div>
     </section>
   )

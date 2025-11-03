@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Services } from './components/Services'
 import { Hero } from './components/Hero'
 import { Navbar } from './components/Navbar'
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Navbar/>
       <Hero/>
+      <Services/>
     </>
     
   )
