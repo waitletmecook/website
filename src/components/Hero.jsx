@@ -5,7 +5,7 @@ import pic from '/pic.png'
 export const Hero = () => {
   return (
     <section className="flex flex-col mt-20 md:flex-row items-center justify-between max-w-7xl mx-auto px-6 py-4 bg-white">
-      {/* Левая часть — текст */}
+      
         <div className="md:w-1/2 space-y-6">
             <h1 className="text-[56px] md:text-5xl font-semibold text-gray-900 leading-tight">
                 Make your business <span className="text-orange-500">more powerful</span> <br/> with us
