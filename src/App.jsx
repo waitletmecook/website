@@ -3,6 +3,8 @@ import { Services } from './components/Services'
 import { Hero } from './components/Hero'
 import { Navbar } from './components/Navbar'
 import { Documentation } from './components/Documentation'
+import { Workingspace } from './components/Workingspace'
+
 
 
 function App() {
@@ -12,6 +14,7 @@ function App() {
       <Hero/>
       <Services/>
       <Documentation/>
+      <Workingspace/>
     </>
     
   )

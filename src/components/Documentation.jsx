@@ -3,7 +3,7 @@ import { CircleCheck } from 'lucide-react';
 
 export const Documentation = () => {
   return (
-    <section className='py-20 px-6 md:px-12'>
+    <section className='py-20 px-6 md:px-12 pb-40'>
         <div>
             <div className='pb-16'>
                 <div className="mb-12 text-center">
