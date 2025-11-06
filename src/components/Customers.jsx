@@ -27,35 +27,6 @@ export const Customers = () => {
           <img src="/images/philips.svg" alt="Philips" className="h-10 object-contain" />
         </div>
       </div>
-
-      {/* Нижняя часть — отзыв 
-      <div className="bg-[#FE9602] text-white py-16 relative w-full">
-        <div className="max-w-4xl mx-auto px-6">
-          <img src='/images/quotes.svg' alt='asd' className="mx-auto block"/>
-          <p className="text-[28px] leading-10 tracking-[-0.1px] mb-8">
-            We are serious about providing our best service to <br/>
-            all the customers we help. Customers satisfaction is <br/>
-            our number one priority.
-          </p>
-          <div>
-            <p className="font-semibold text-lg">Mark Garfield</p>
-            <p className="text-sm opacity-90">CEO & Head of Product</p>
-          </div>
-        </div>
-
-        
-        <div className="absolute left-6 top-1/2 -translate-y-1/2">
-          <button className="bg-white text-orange-500 rounded-full p-3 shadow-md hover:bg-gray-100 transition">
-            <span className="text-xl">←</span>
-          </button>
-        </div>
-        <div className="absolute right-6 top-1/2 -translate-y-1/2">
-          <button className="bg-white text-orange-500 rounded-full p-3 shadow-md hover:bg-gray-100 transition">
-            <span className="text-xl">→</span>
-          </button>
-        </div>
-      </div>
-            */}
     </section>
   )
 }
