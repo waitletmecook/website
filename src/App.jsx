@@ -4,6 +4,8 @@ import { Hero } from './components/Hero'
 import { Navbar } from './components/Navbar'
 import { Documentation } from './components/Documentation'
 import { Workingspace } from './components/Workingspace'
+import { Customers } from './components/Customers'
+import { Carusel } from './components/Carusel'
 
 
 
@@ -15,6 +17,8 @@ function App() {
       <Services/>
       <Documentation/>
       <Workingspace/>
+      <Customers/>
+      <Carusel/>
     </>
     
   )
