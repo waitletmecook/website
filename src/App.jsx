@@ -7,6 +7,7 @@ import { Workingspace } from './components/Workingspace'
 import { Customers } from './components/Customers'
 import { Carusel } from './components/Carusel'
 import { Questions } from './components/Questions'
+import { Testimonials } from './components/Testimonials'
 
 
 
@@ -21,6 +22,7 @@ function App() {
       <Customers/>
       <Carusel/>
       <Questions/>
+      <Testimonials/>
     </>
     
   )
