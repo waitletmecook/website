@@ -14,17 +14,17 @@ export const Customers = () => {
         </div>
 
         <div className="flex flex-wrap justify-center items-center gap-4 mt-12">
-          <img src="/images/amazon.svg" alt="Amazon" className="h-10 object-contain" />
-          <img src="/images/jeep.svg" alt="Jeep" className="h-10 object-contain" />
-          <img src="/images/careem.svg" alt="Careem" className="h-10 object-contain" />
-          <img src="/images/hubspot.svg" alt="HubSpot" className="h-10 object-contain" />
-          <img src="/images/jquery.svg" alt="jQuery" className="h-10 object-contain" />
-          <div className='w-full'></div>
-          <img src="/images/canon.svg" alt="Canon" className="h-10 object-contain" />
-          <img src="/images/fedex.svg" alt="FedEx" className="h-10 object-contain" />
-          <img src="/images/bitcoin.svg" alt="Bitcoin" className="h-10 object-contain" />
-          <img src="/images/pirelli.svg" alt="Pirelli" className="h-10 object-contain" />
-          <img src="/images/philips.svg" alt="Philips" className="h-10 object-contain" />
+            <img src="/images/amazon.svg" alt="Amazon" className="h-10 object-contain" />
+            <img src="/images/jeep.svg" alt="Jeep" className="h-10 object-contain" />
+            <img src="/images/careem.svg" alt="Careem" className="h-10 object-contain" />
+            <img src="/images/hubspot.svg" alt="HubSpot" className="h-10 object-contain" />
+            <img src="/images/jquery.svg" alt="jQuery" className="h-10 object-contain" />
+            <div className='w-full'></div>
+            <img src="/images/canon.svg" alt="Canon" className="h-10 object-contain" />
+            <img src="/images/fedex.svg" alt="FedEx" className="h-10 object-contain" />
+            <img src="/images/bitcoin.svg" alt="Bitcoin" className="h-10 object-contain" />
+            <img src="/images/pirelli.svg" alt="Pirelli" className="h-10 object-contain" />
+            <img src="/images/philips.svg" alt="Philips" className="h-10 object-contain" />
         </div>
       </div>
     </section>

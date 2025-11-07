@@ -6,6 +6,7 @@ import { Documentation } from './components/Documentation'
 import { Workingspace } from './components/Workingspace'
 import { Customers } from './components/Customers'
 import { Carusel } from './components/Carusel'
+import { Questions } from './components/Questions'
 
 
 
@@ -19,6 +20,7 @@ function App() {
       <Workingspace/>
       <Customers/>
       <Carusel/>
+      <Questions/>
     </>
     
   )

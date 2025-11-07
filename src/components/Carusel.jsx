@@ -3,7 +3,7 @@ import {ArrowRight, ArrowLeft} from "lucide-react";
 export const Carusel = () => {
   return (
     <section className='text-center'>
-        <div className="bg-[#FE9602] text-white py-16 relative w-full h-[54 0px]">
+        <div className="bg-[#FE9602] text-white py-16 relative h-[54 0px]">
             <div className="max-w-4xl mx-auto px-6">
                 <img src='/images/quotes.svg' alt='' className="mx-auto block"/>
                 <p className="text-[28px] leading-10 tracking-[-0.1px] mb-15">
