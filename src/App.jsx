@@ -8,6 +8,10 @@ import { Customers } from './components/Customers'
 import { Carusel } from './components/Carusel'
 import { Questions } from './components/Questions'
 import { Testimonials } from './components/Testimonials'
+import { StartNow } from './components/StartNow'
+import { Fotar } from './components/Fotar'
+
+
 
 
 
@@ -23,6 +27,8 @@ function App() {
       <Carusel/>
       <Questions/>
       <Testimonials/>
+      <StartNow/>
+      <Fotar/>
     </>
     
   )
